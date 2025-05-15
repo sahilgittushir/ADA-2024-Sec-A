@@ -1,6 +1,6 @@
 # Algorithm Design and Analysis (ADA)
 
-Welcome to the ADA course repository! This repository is a comprehensive guide to the content, concepts, and problems covered in the **Algorithm Design and Analysis** course offered at IIT.
+Welcome to the ADA course repository! This repository is a comprehensive guide to the content, concepts, and problems covered in the **Algorithm Design and Analysis** course offered at IIIT-Delhi.
 
 📚 **Instructor**: Prof. Diptapriyo Majumdar  
 📧 Email: diptapriyo@iiitd.ac.in  
