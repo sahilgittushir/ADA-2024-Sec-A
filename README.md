@@ -3,7 +3,7 @@
 Welcome to the ADA course repository! This repository is a comprehensive guide to the content, concepts, and problems covered in the **Algorithm Design and Analysis** course offered at IIT.
 
 📚 **Instructor**: Prof. Diptapriyo Majumdar  
-📧 Email: diptapriyo@iitgn.ac.in  
+📧 Email: diptapriyo@iiitd.ac.in  
 
 🛠️ **Maintainer**: Sahil Tushir  
 📧 Email: sahil22427@iiitd.ac.in 
